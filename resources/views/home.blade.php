@@ -33,7 +33,7 @@
 
             <div class="hero-buttons">
                 <a
-                    href="{{ asset('cv/Christelle-FANDE-TADONGTSA-CV.pdf') }}"
+                    href="/cv/Christelle-FANDE-TADONGTSA-CV.pdf"
                     class="button button-primary"
                     download
                 >
